@@ -1,0 +1,50 @@
+.tabela{
+    height: 600px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 0px;
+}
+
+.th0{
+    border-radius: 25px;
+    width: fixed;
+}
+
+.th1{
+    background-color: rgb(23, 23, 189);
+}
+
+.th2{
+    background-color: rgb(37, 114, 110);
+}
+
+.th3{
+    background-color: rgb(16, 16, 92);
+}
+
+.th4{
+    background-color: rgb(100, 39, 156);
+}
+
+.th5{
+    background-color: rgb(175, 38, 38);
+}
+
+.th6{
+    background-color: rgb(149, 97, 38);
+}
+
+.th7{
+    background-color: rgb(35, 167, 31);
+}
+
+.th8{
+    background-color:  rgb(31, 95, 167);
+}
+
+.none{
+    display: none;
+}
